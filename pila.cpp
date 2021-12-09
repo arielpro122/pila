@@ -44,7 +44,7 @@ int main(){
 			return 0;
 		}
 		else{
-			cout<<"SOLO HAY 3 OPCIONES PENDEJO\n\n";
+			cout<<"SOLO HAY 3 OPCIONES \n\n";
 		}
 	}while(true);
 	
